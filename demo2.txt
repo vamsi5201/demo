@@ -1,0 +1,3 @@
+Design a class to construct an object of a class depending on some parameter ( Assume you have developed a file processing tool which could process any type of file, for which you have set of classes like TxtClass which could process text  document, CsvClass which could process comma separated value files(.xls) , etc )
+The design you decide, should also support plugability ( later you decide, your tool should also process wmf files).
+Design a class which could do this and plug it to your tool ) 
